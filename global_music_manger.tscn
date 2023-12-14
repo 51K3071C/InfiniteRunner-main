@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://duiymrdvnbdpd"]
+
+[ext_resource type="Script" path="res://GlobalMusicManger.gd" id="1_wja48"]
+[ext_resource type="AudioStream" uid="uid://cf03pxqb07fgj" path="res://cds moosic (2).mp3" id="2_uls6j"]
+
+[node name="GlobalMusicManger" type="Node3D"]
+script = ExtResource("1_wja48")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_uls6j")
+autoplay = true
