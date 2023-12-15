@@ -18,6 +18,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0150971, 0)
 shape = SubResource("ConcavePolygonShape3D_106d8")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="StaticBody3D"]
+transform = Transform3D(1.515, 0, 0, 0, 1, 0, 0, 0, 1, 0.0123134, 0, 0)
 mesh = ExtResource("1_1mho3")
 surface_material_override/0 = ExtResource("2_pbad1")
 surface_material_override/1 = ExtResource("3_nyyak")

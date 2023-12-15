@@ -14,7 +14,7 @@ var swiping = false
 var threshold = 20
 var swipeDir = 0
 
-const JUMP_VEL = 7
+const JUMP_VEL = 15
 var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
 
 func _process(delta):
@@ -33,7 +33,7 @@ func _process(delta):
 	if death_sensor.is_colliding():
 		death()
 	
-	velocity.y -= gravity*delta
+	velocity.y -= gravity*delta*4
 	move_and_slide()
 func _onready():
 	GlobalMusicManager.play_song()
@@ -43,10 +43,11 @@ func swipe():
 	if Input.is_action_just_pressed("left"):
 		swipeDir = -1
 		swiping = true
-		
+		color_change()
 	elif Input.is_action_just_pressed("right"):
 		swipeDir = 1
 		swiping = true
+		color_change()
 	elif Input.is_action_just_pressed("up") and is_on_floor():
 		velocity.y = JUMP_VEL
 		swiping = true

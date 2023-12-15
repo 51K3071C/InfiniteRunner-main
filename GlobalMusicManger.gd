@@ -1,5 +1,5 @@
 extends Node3D
 
 func play_song():
-	$AudioStreamPlayer.stream = preload("res://cds moosic (2).mp3")
+	$AudioStreamPlayer.stream = preload("res://Geoxor & poixone - I'm Here.mp3")
 	$AudioStreamPlayer.play()

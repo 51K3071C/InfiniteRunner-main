@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://crjlg0bqbt3oy"
+path="res://.godot/imported/Geoxor & poixone - I'm Here.mp3-d03dba7f621d34f395f0f38e4eeccba8.mp3str"
+
+[deps]
+
+source_file="res://Geoxor & poixone - I'm Here.mp3"
+dest_files=["res://.godot/imported/Geoxor & poixone - I'm Here.mp3-d03dba7f621d34f395f0f38e4eeccba8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

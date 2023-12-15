@@ -1,28 +1,30 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702571621
+::res://::1702655932
 cds moosic (2).mp3::AudioStreamMP3::5177123124967924377::1702569256::1702569256::1::::<><>::
+Geoxor & poixone - I'm Here.mp3::AudioStreamMP3::5985311026060791884::1702655932::1702655932::1::::<><>::
 GlobalMusicManger.gd::GDScript::-1::1702571286::0::1::::<>Node3D<>::
-global_music_manger.tscn::PackedScene::8581033481728608197::1702571309::0::1::::<><>::res://GlobalMusicManger.gd<>uid://cf03pxqb07fgj::::res://cds moosic (2).mp3
+global_music_manger.tscn::PackedScene::8581033481728608197::1702573393::0::1::::<><>::res://GlobalMusicManger.gd<>uid://cf03pxqb07fgj::::res://cds moosic (2).mp3
 glob_vars.gd::GDScript::-1::1702570724::0::1::::<>Node<>::
+README.md::TextFile::-1::1702571724::0::1::::<><>::
 ::res://art/::1702485302
-::res://art/materials/::1702487645
-green.tres::StandardMaterial3D::2967297306462191102::1702487645::0::1::::<><>::
-grey.tres::StandardMaterial3D::4762681349887284046::1702485331::0::1::::<><>::
-red.tres::StandardMaterial3D::2474749252509424344::1702485331::0::1::::<><>::
+::res://art/materials/::1702571995
+green.tres::StandardMaterial3D::2967297306462191102::1702571995::0::1::::<><>::
+grey.tres::StandardMaterial3D::4762681349887284046::1702571995::0::1::::<><>::
+red.tres::StandardMaterial3D::2474749252509424344::1702571995::0::1::::<><>::
 ::res://art/models/::1702485302
 module1.obj::Mesh::5227770676477227218::1702485302::1702485302::1::::<><>::
 module2.obj::Mesh::413112130507605498::1702485302::1702485302::1::::<><>::
 module3.obj::Mesh::1154257883982640742::1702485302::1702485302::1::::<><>::
 module4.obj::Mesh::7269583109653621574::1702485302::1702485302::1::::<><>::
 module5.obj::Mesh::6236214240202326222::1702485302::1702485302::1::::<><>::
-::res://modules/::1702571309
-module1.tscn::PackedScene::1120513614318185903::1702571309::0::1::::<><>::uid://cgqmvb4gnajoc::::res://art/models/module1.obj<>res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres
-module2.tscn::PackedScene::2003730060471804570::1702571309::0::1::::<><>::uid://f5d5qjnyqap3::::res://art/models/module2.obj<>res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres<>uid://bbi101762vk45::::res://art/materials/red.tres
-module3.tscn::PackedScene::9089438733422649777::1702571309::0::1::::<><>::uid://qpepujexwbww::::res://art/models/module3.obj<>res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres<>uid://bbi101762vk45::::res://art/materials/red.tres
+::res://modules/::1702573393
+module1.tscn::PackedScene::1120513614318185903::1702573393::0::1::::<><>::uid://cgqmvb4gnajoc::::res://art/models/module1.obj<>res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres
+module2.tscn::PackedScene::2003730060471804570::1702573393::0::1::::<><>::uid://f5d5qjnyqap3::::res://art/models/module2.obj<>res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres<>uid://bbi101762vk45::::res://art/materials/red.tres
+module3.tscn::PackedScene::9089438733422649777::1702573393::0::1::::<><>::uid://qpepujexwbww::::res://art/models/module3.obj<>res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres<>uid://bbi101762vk45::::res://art/materials/red.tres
 module4.tscn::PackedScene::7087052206557763817::1702485302::0::1::::<><>::res://modules/module.gd<>uid://dbto8bkl5hh23
-module5.tscn::PackedScene::1439480209270335175::1702571309::0::1::::<><>::res://modules/module.gd<>uid://cu34sjirpgpco::::res://art/models/module5.obj<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres
-module.gd::GDScript::-1::1702487063::0::1::::<>Node3D<>::
-::res://scenes/::1702571309
-Level.gd::GDScript::-1::1702570330::0::1::::<>Node3D<>::
-main.tscn::PackedScene::5201714595116028913::1702571309::0::1::::<><>::res://scenes/Level.gd<>uid://p71xwawyruxj::::res://modules/module1.tscn<>uid://3sve2nrss2io::::res://modules/module2.tscn<>uid://d2q8y0rtu2njt::::res://modules/module3.tscn<>uid://c78ayj4g08730::::res://modules/module4.tscn<>uid://urka8ho68bnr::::res://modules/module5.tscn<>res://scenes/Player.gd<>uid://bijm7n2bbco7g::::res://art/materials/green.tres<>uid://cf03pxqb07fgj::::res://cds moosic (2).mp3
-Player.gd::GDScript::-1::1702571208::0::1::::<>CharacterBody3D<>::
+module5.tscn::PackedScene::1439480209270335175::1702573393::0::1::::<><>::res://modules/module.gd<>uid://cu34sjirpgpco::::res://art/models/module5.obj<>uid://b84cwv5kxjjqs::::res://art/materials/grey.tres
+module.gd::GDScript::-1::1702571995::0::1::::<>Node3D<>::
+::res://scenes/::1702573393
+Level.gd::GDScript::-1::1702573310::0::1::::<>Node3D<>::
+main.tscn::PackedScene::5201714595116028913::1702573393::0::1::::<><>::res://scenes/Level.gd<>uid://p71xwawyruxj::::res://modules/module1.tscn<>uid://3sve2nrss2io::::res://modules/module2.tscn<>uid://d2q8y0rtu2njt::::res://modules/module3.tscn<>uid://c78ayj4g08730::::res://modules/module4.tscn<>uid://urka8ho68bnr::::res://modules/module5.tscn<>res://scenes/Player.gd<>uid://bijm7n2bbco7g::::res://art/materials/green.tres<>uid://cf03pxqb07fgj::::res://cds moosic (2).mp3
+Player.gd::GDScript::-1::1702572727::0::1::::<>CharacterBody3D<>::
