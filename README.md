@@ -1,2 +1,2 @@
 # InfiniteRunner-main
- 
+ This is basically a 3D version of geometry dash. so thats cool. Originally I was supposed to code a calculator dating sim but not only did that not fit any requirements, but it also deleted itself from existance. In this game when you move you change colors, you must avoid all the walls in you way at all cost. Thats pretty much it. I added music in the background created by Geoxor & Poixone. I felt that this added a geometry dash vibe to the game.
